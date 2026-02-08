@@ -1,17 +1,33 @@
-web-based system designed for Middle East College (MEC) students to track and calculate their attendance percentage according to MEC attendance rules. The website informs students how many hours they can still be absent (with or without valid reasons) while maintaining the required attendance threshold.
+🌐 **Attendance Calculator – MEC Student Web System**
 
-📖 How to Use This Calculator
+* A web-based system designed specifically for **Middle East College (MEC)** students
+* Helps students **track and calculate their attendance percentage** according to **MEC attendance regulations**
+* Clearly shows **how many hours you can still be absent** (with or without valid reasons) while maintaining the **required attendance threshold**
 
-Step 1: Enter your current week number (between 2 and 14)
+---
 
-Step 2: Enter total hours you've been absent so far
+⚙️ **How to Access the Attendance Calculator**
 
-Step 3: Click "Calculate Attendance" to see your results
+* 📥 Download the file to your **PC**
+* 🌐 Open the file using **Google Chrome**
+* 📘 Follow the user guide below
 
-Important: Week 1 is NOT counted in attendance calculations
+---
 
-Target: Maintain at least 75% attendance for best standing
+📖 **How to Use This Calculator**
 
-Minimum: 55% required for modules without ESE exams
+* 🟢 **Step 1:** Enter your **current week number** (from Week 2 to Week 14)
+* 🟠 **Step 2:** Enter the **total number of hours you have been absent** so far
+* 🔵 **Step 3:** Click **“Calculate Attendance”** to view your attendance results instantly
 
-Planning: Check the weekly plan table to see your future attendance path
+---
+
+⚠️ **Important Notes**
+
+* 🚫 **Week 1 is NOT included** in attendance calculations
+* 🎯 **Target Attendance:** Maintain at least **75%** for good academic standing
+* ❗ **Minimum Attendance:** **55%** is required for modules **without ESE exams**
+* 📊 **Planning Tip:** Use the **weekly plan table** to predict and manage your future attendance path
+
+---
+
